@@ -6,7 +6,7 @@ Este é um motor de extração e análise de dados construído em Python. O sist
 ## Tecnologias Utilizadas
 * **Python 3:** Linguagem base do sistema.
 * **Pandas:** Para ingestão estruturada e manipulação do arquivo CSV.
-* **Google GenAI SDK:** Para comunicação com a API do Gemini 2.5 Flash.
+* **Google GenAI SDK:** Para comunicação com a API do Gemini 3.5 Flash.
 * **Variáveis de Ambiente:** Isolamento de credenciais de API por questões de segurança.
 
 ## Como rodar o projeto localmente
