@@ -5,8 +5,6 @@ from google import genai
 
 load_dotenv()
 chave = os.getenv("GEMINI_API_KEY")
-print(repr(chave))
-print(len(chave))
 
 load_dotenv()
 chave_secreta = os.getenv("GEMINI_API_KEY")
